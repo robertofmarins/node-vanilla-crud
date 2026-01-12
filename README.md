@@ -42,7 +42,7 @@ Sem bibliotecas de rotas, utilizei lógica de tratamento de strings para identif
 ---
 
 ## 📂 Estrutura do Projeto
-
+```bash
 /
 ├── /backend
 │   ├── server.ts      # Servidor HTTP e lógica de rotas
@@ -54,7 +54,7 @@ Sem bibliotecas de rotas, utilizei lógica de tratamento de strings para identif
 │   ├── app.ts         # Lógica de integração e DOM
 │   └── package.json
 └── data.json      # "Banco de dados" em JSON
-
+```
 ---
 
 ## ⚡ Como rodar o projeto localmente
