@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch server.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.19.5",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "tsx": "^4.19.0"
+  }
+}

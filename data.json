@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3,
+    "nome": "JSON",
+    "nivel": "Básico"
+  },
+  {
+    "nome": "Python",
+    "nivel": "Básico",
+    "id": 1768236111113
+  },
+  {
+    "nome": "JavaScript",
+    "nivel": "Intermediário",
+    "id": 1768240176600
+  },
+  {
+    "nome": "Java",
+    "nivel": "Avançado",
+    "id": 1768240197503
+  }
+]
